@@ -10,7 +10,11 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 Assets/Enhanced Hierarchy/
+Assets/VRCSDK/
+Assets/Plugins/
+Assets/Other/
 UnityPackageManager/
+/ProjectSettings/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
