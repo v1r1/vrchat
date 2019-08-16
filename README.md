@@ -1,4 +1,4 @@
-### VRChat Utilites & Assets
+# VRChat Utilites & Assets
 
 This repo contains various scripts and assets I've created to make content creation for VRChat a more streamlined process.
 
@@ -6,5 +6,5 @@ This repo contains various scripts and assets I've created to make content creat
 
 ## Worlds
 
-# Desktop Hands
+### Desktop Hands
 
