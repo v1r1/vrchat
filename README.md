@@ -1,3 +1,4 @@
+## NOTE: This project is still a heavy WIP
 # VRChat Utilites & Assets
 This repo contains various scripts and assets I've created to make content creation for VRChat a more streamlined process.
 
